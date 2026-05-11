@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VendingAPI/VendingAPI.csproj" />
+  <Project Path="VendingApp/VendingApp.csproj" />
+</Solution>
